@@ -1,0 +1,18 @@
+prefix = "."
+query-judgements = "qrels.txt"
+index = "idx"
+corpus = "line.toml"
+dataset = "wiki"
+[ranker]
+	k3 = 500
+	b = 0.750000
+	k1 = 1.20000
+	method = "bm25"
+[[analyzers]]
+	ngram = 1
+	method = "ngram-word"
+	[[analyzers.filter]]
+		suppress-tags = true
+		type = "icu-tokenizer"
+	[[analyzers.filter]]
+		type = "lowercase"
