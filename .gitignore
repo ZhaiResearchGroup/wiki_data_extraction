@@ -1,2 +1,9 @@
-out
-data
+out/*
+data/*
+idx
+wiki/metadata.dat
+wiki/wiki.dat
+.ipynb_checkpoints
+wiki_dump/wiki_dump.csv
+wiki_dump/data
+wiki_dump/enwiki*
