@@ -1,0 +1,4 @@
+type = "line-corpus"
+encoding = "utf-8"
+metadata = [{name = "path", type = "string"}]
+store-full-text = true

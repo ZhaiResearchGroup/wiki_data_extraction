@@ -1,8 +1,9 @@
 out/*
 data/*
 idx
-wiki/metadata.dat
-wiki/wiki.dat
+search/wiki_*/metadata.dat
+search/wiki_*/wiki_*.dat
+search/idx_*
 .ipynb_checkpoints
 wiki_dump/wiki_dump.csv
 wiki_dump/data

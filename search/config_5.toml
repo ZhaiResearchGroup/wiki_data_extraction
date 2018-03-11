@@ -1,7 +1,7 @@
-prefix = "."
-dataset = "wiki"
+prefix = "search"
+dataset = "wiki_5"
 corpus = "line.toml"
-index = "idx"
+index = "search/idx_5"
 query-judgements = "qrels.txt"
 
 [[analyzers]]
