@@ -1,590 +1,115 @@
-2018-03-15 19:36:36,197 DEBUG James Bond.txt
-2018-03-15 19:36:39,295 DEBUG Speed.txt
-2018-03-15 19:36:40,511 DEBUG Official language.txt
-2018-03-15 19:36:41,851 DEBUG Federal Register.txt
-2018-03-15 19:36:42,698 DEBUG Flash memory.txt
-2018-03-15 19:36:45,613 DEBUG Counties of Sweden.txt
-2018-03-15 19:36:46,638 DEBUG 1980 United States Census.txt
-2018-03-15 19:36:47,007 DEBUG Percussion instrument.txt
-2018-03-15 19:36:48,517 DEBUG South Australia.txt
-2018-03-15 19:36:52,073 DEBUG Colorado.txt
-2018-03-15 19:36:58,044 DEBUG Anglosphere.txt
-2018-03-15 19:37:00,182 DEBUG Tornado.txt
-2018-03-15 19:37:00,442 DEBUG Channel 5 (UK).txt
-2018-03-15 19:37:04,687 DEBUG Nordic countries.txt
-2018-03-15 19:37:14,341 DEBUG Nasal consonant.txt
-2018-03-15 19:37:15,055 DEBUG WebCite.txt
-2018-03-15 19:37:15,691 DEBUG Roman Republic.txt
-2018-03-15 19:37:22,512 DEBUG Austrian School.txt
-2018-03-15 19:37:25,018 DEBUG Music of the United States.txt
-2018-03-15 19:37:33,483 DEBUG Nomenclature.txt
-2018-03-15 19:37:36,602 DEBUG Private school.txt
-2018-03-15 19:37:37,477 DEBUG Gastropod.txt
-2018-03-15 19:37:41,117 DEBUG Coat of arms.txt
-2018-03-15 19:37:43,105 DEBUG Skipper (butterfly).txt
-2018-03-15 19:37:44,304 DEBUG Prince (musician).txt
-2018-03-15 19:37:53,969 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 19:37:57,571 DEBUG Chromosome.txt
-2018-03-15 19:38:01,645 DEBUG Serbs.txt
-2018-03-15 19:38:03,198 DEBUG Thesis.txt
-2018-03-15 19:38:04,636 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 19:38:06,435 DEBUG H. G. Wells.txt
-2018-03-15 19:38:13,111 DEBUG September 11, 2001 attacks.txt
-2018-03-15 19:38:27,752 DEBUG West Midlands (county).txt
-2018-03-15 19:38:30,414 DEBUG Wiktionary.txt
-2018-03-15 19:38:31,726 DEBUG Arithmetic.txt
-2018-03-15 19:38:32,562 DEBUG Spatial reference system.txt
-2018-03-15 19:38:33,554 DEBUG Computer keyboard.txt
-2018-03-15 19:38:35,586 DEBUG Bit.txt
-2018-03-15 19:38:38,914 DEBUG Uniformed services of the United States.txt
-2018-03-15 19:38:39,270 DEBUG Nepal.txt
-2018-03-15 19:38:55,682 DEBUG National League.txt
-2018-03-15 19:38:57,209 DEBUG Survey methodology.txt
-2018-03-15 19:38:59,418 DEBUG Censorship.txt
-2018-03-15 19:39:02,028 DEBUG Zygomycota.txt
-2018-03-15 19:39:03,172 DEBUG Overtime (sports).txt
-2018-03-15 19:39:06,101 DEBUG Biomechanics.txt
-2018-03-15 19:39:06,511 DEBUG Fuel.txt
-2018-03-15 19:39:08,121 DEBUG Provinces of Italy.txt
-2018-03-15 19:39:09,964 DEBUG The Honourable.txt
-2018-03-15 19:39:11,551 DEBUG Chicago.txt
-2018-03-15 19:39:26,291 DEBUG Economy of the United Kingdom.txt
-2018-03-15 19:39:34,355 DEBUG Fianna Fáil.txt
-2018-03-15 19:39:37,394 DEBUG 400 (number).txt
-2018-03-15 19:39:37,649 DEBUG Telecommunications in Chile.txt
-2018-03-15 19:39:37,872 DEBUG Priest.txt
-2018-03-15 19:39:38,537 DEBUG Crystal structure.txt
-2018-03-15 19:39:40,643 DEBUG National Register of Historic Places listings in North Carolina.txt
-2018-03-15 19:39:41,134 DEBUG Brain.txt
-2018-03-15 19:39:45,722 DEBUG Coconut.txt
-2018-03-15 19:39:50,220 DEBUG Southern Hemisphere.txt
-2018-03-15 19:39:51,778 DEBUG Canada 2001 Census.txt
-2018-03-15 19:39:53,359 DEBUG Male.txt
-2018-03-15 19:39:54,636 DEBUG White American.txt
-2018-03-15 19:40:03,809 DEBUG Imamah (Shia doctrine).txt
-2018-03-15 19:40:06,591 DEBUG 2003 invasion of Iraq.txt
-2018-03-15 19:40:25,661 DEBUG Governance.txt
-2018-03-15 19:40:29,820 DEBUG Old Testament.txt
-2018-03-15 19:40:32,210 DEBUG IP address.txt
-2018-03-15 19:40:37,931 DEBUG Windsor, Ontario.txt
-2018-03-15 19:40:38,735 DEBUG Muammar Gaddafi.txt
-2018-03-15 19:40:50,502 DEBUG City council.txt
-2018-03-15 19:40:51,073 DEBUG Barony (geographic).txt
-2018-03-15 19:40:51,132 DEBUG Sega Genesis.txt
-2018-03-15 19:40:58,287 DEBUG International Standard Recording Code.txt
-2018-03-15 19:40:59,401 DEBUG Pope Gregory I.txt
-2018-03-15 19:41:06,153 DEBUG Provinces of Sweden.txt
-2018-03-15 19:41:08,446 DEBUG Rock music.txt
-2018-03-15 19:41:14,651 DEBUG São Paulo.txt
-2018-03-15 19:41:29,628 DEBUG Glagolitic alphabet.txt
-2018-03-15 19:41:31,159 DEBUG Earth science.txt
-2018-03-15 19:41:36,102 DEBUG Material safety data sheet.txt
-2018-03-15 19:41:38,154 DEBUG UTC−05:00.txt
-2018-03-15 19:41:38,573 DEBUG Rye.txt
-2018-03-15 19:41:39,586 DEBUG Cassava.txt
-2018-03-15 19:43:42,167 DEBUG James Bond.txt
-2018-03-15 19:44:17,625 DEBUG Speed.txt
-2018-03-15 19:44:23,584 DEBUG Official language.txt
-2018-03-15 19:44:35,825 DEBUG Federal Register.txt
-2018-03-15 19:44:40,888 DEBUG Flash memory.txt
-2018-03-15 19:45:32,325 DEBUG Counties of Sweden.txt
-2018-03-15 19:45:38,747 DEBUG 1980 United States Census.txt
-2018-03-15 19:45:40,315 DEBUG Percussion instrument.txt
-2018-03-15 19:45:50,649 DEBUG South Australia.txt
-2018-03-15 19:46:40,175 DEBUG Colorado.txt
-2018-03-15 19:47:16,298 DEBUG James Bond.txt
-2018-03-15 19:47:17,608 DEBUG Speed.txt
-2018-03-15 19:47:18,034 DEBUG Official language.txt
-2018-03-15 19:47:18,956 DEBUG Federal Register.txt
-2018-03-15 19:47:19,491 DEBUG Flash memory.txt
-2018-03-15 19:47:21,847 DEBUG Counties of Sweden.txt
-2018-03-15 19:47:22,648 DEBUG 1980 United States Census.txt
-2018-03-15 19:47:22,931 DEBUG Percussion instrument.txt
-2018-03-15 19:47:24,042 DEBUG South Australia.txt
-2018-03-15 19:47:26,865 DEBUG Colorado.txt
-2018-03-15 19:47:32,211 DEBUG Anglosphere.txt
-2018-03-15 19:47:33,898 DEBUG Tornado.txt
-2018-03-15 19:47:34,173 DEBUG Channel 5 (UK).txt
-2018-03-15 19:47:36,742 DEBUG Nordic countries.txt
-2018-03-15 19:47:43,915 DEBUG Nasal consonant.txt
-2018-03-15 19:47:44,627 DEBUG WebCite.txt
-2018-03-15 19:47:45,850 DEBUG Roman Republic.txt
-2018-03-15 19:47:51,279 DEBUG Austrian School.txt
-2018-03-15 19:47:54,345 DEBUG Music of the United States.txt
-2018-03-15 19:48:00,156 DEBUG Nomenclature.txt
-2018-03-15 19:48:02,033 DEBUG Private school.txt
-2018-03-15 19:48:02,742 DEBUG Gastropod.txt
-2018-03-15 19:48:05,827 DEBUG Coat of arms.txt
-2018-03-15 19:48:06,642 DEBUG Skipper (butterfly).txt
-2018-03-15 19:48:07,735 DEBUG Prince (musician).txt
-2018-03-15 19:48:14,669 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 19:48:17,756 DEBUG Chromosome.txt
-2018-03-15 19:48:21,614 DEBUG Serbs.txt
-2018-03-15 19:48:23,087 DEBUG Thesis.txt
-2018-03-15 19:48:24,373 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 19:48:27,172 DEBUG H. G. Wells.txt
-2018-03-15 19:48:32,950 DEBUG September 11, 2001 attacks.txt
-2018-03-15 19:49:26,720 DEBUG James Bond.txt
-2018-03-15 19:49:28,142 DEBUG Speed.txt
-2018-03-15 19:49:28,638 DEBUG Official language.txt
-2018-03-15 19:49:29,358 DEBUG Federal Register.txt
-2018-03-15 19:49:29,895 DEBUG Flash memory.txt
-2018-03-15 19:49:31,595 DEBUG Counties of Sweden.txt
-2018-03-15 19:49:32,228 DEBUG 1980 United States Census.txt
-2018-03-15 19:49:32,431 DEBUG Percussion instrument.txt
-2018-03-15 19:49:33,150 DEBUG South Australia.txt
-2018-03-15 19:49:35,738 DEBUG Colorado.txt
-2018-03-15 19:50:00,421 DEBUG James Bond.txt
-2018-03-15 19:50:02,045 DEBUG Speed.txt
-2018-03-15 19:50:02,580 DEBUG Official language.txt
-2018-03-15 19:53:21,095 DEBUG James Bond.txt
-2018-03-15 19:53:22,256 DEBUG Speed.txt
-2018-03-15 19:53:23,033 DEBUG Official language.txt
-2018-03-15 19:53:23,792 DEBUG Federal Register.txt
-2018-03-15 19:53:29,333 DEBUG James Bond.txt
-2018-03-15 19:53:30,792 DEBUG Speed.txt
-2018-03-15 19:53:31,226 DEBUG Official language.txt
-2018-03-15 19:53:31,929 DEBUG Federal Register.txt
-2018-03-15 19:53:33,116 DEBUG Flash memory.txt
-2018-03-15 19:53:34,756 DEBUG Counties of Sweden.txt
-2018-03-15 19:53:35,748 DEBUG 1980 United States Census.txt
-2018-03-15 19:53:35,965 DEBUG Percussion instrument.txt
-2018-03-15 19:53:36,544 DEBUG South Australia.txt
-2018-03-15 19:53:40,180 DEBUG Colorado.txt
-2018-03-15 19:53:44,553 DEBUG Anglosphere.txt
-2018-03-15 19:53:46,686 DEBUG Tornado.txt
-2018-03-15 19:53:46,952 DEBUG Channel 5 (UK).txt
-2018-03-15 19:53:51,195 DEBUG Nordic countries.txt
-2018-03-15 19:53:57,133 DEBUG Nasal consonant.txt
-2018-03-15 19:53:57,711 DEBUG WebCite.txt
-2018-03-15 19:53:57,958 DEBUG Roman Republic.txt
-2018-03-15 19:54:04,399 DEBUG Austrian School.txt
-2018-03-15 19:54:05,973 DEBUG Music of the United States.txt
-2018-03-15 19:54:11,055 DEBUG Nomenclature.txt
-2018-03-15 19:54:12,419 DEBUG Private school.txt
-2018-03-15 19:54:12,903 DEBUG Gastropod.txt
-2018-03-15 19:54:15,283 DEBUG Coat of arms.txt
-2018-03-15 19:54:16,008 DEBUG Skipper (butterfly).txt
-2018-03-15 19:54:16,695 DEBUG Prince (musician).txt
-2018-03-15 19:54:26,866 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 19:54:30,814 DEBUG Chromosome.txt
-2018-03-15 19:54:34,076 DEBUG Serbs.txt
-2018-03-15 19:54:35,670 DEBUG Thesis.txt
-2018-03-15 19:54:36,797 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 19:54:38,202 DEBUG H. G. Wells.txt
-2018-03-15 19:55:05,516 DEBUG James Bond.txt
-2018-03-15 19:55:07,256 DEBUG Speed.txt
-2018-03-15 19:55:07,882 DEBUG Official language.txt
-2018-03-15 19:55:09,149 DEBUG Federal Register.txt
-2018-03-15 19:55:10,108 DEBUG Flash memory.txt
-2018-03-15 19:55:12,747 DEBUG Counties of Sweden.txt
-2018-03-15 19:55:14,019 DEBUG 1980 United States Census.txt
-2018-03-15 19:55:14,443 DEBUG Percussion instrument.txt
-2018-03-15 19:55:15,696 DEBUG South Australia.txt
-2018-03-15 19:55:19,850 DEBUG Colorado.txt
-2018-03-15 19:55:25,589 DEBUG Anglosphere.txt
-2018-03-15 19:55:27,709 DEBUG Tornado.txt
-2018-03-15 19:55:27,927 DEBUG Channel 5 (UK).txt
-2018-03-15 19:55:31,037 DEBUG Nordic countries.txt
-2018-03-15 19:55:39,335 DEBUG Nasal consonant.txt
-2018-03-15 19:55:39,995 DEBUG WebCite.txt
-2018-03-15 19:55:40,524 DEBUG Roman Republic.txt
-2018-03-15 19:55:46,756 DEBUG Austrian School.txt
-2018-03-15 19:55:49,307 DEBUG Music of the United States.txt
-2018-03-15 19:55:55,291 DEBUG Nomenclature.txt
-2018-03-15 19:55:57,869 DEBUG Private school.txt
-2018-03-15 19:55:58,913 DEBUG Gastropod.txt
-2018-03-15 19:56:02,662 DEBUG Coat of arms.txt
-2018-03-15 19:56:03,766 DEBUG Skipper (butterfly).txt
-2018-03-15 19:56:05,149 DEBUG Prince (musician).txt
-2018-03-15 19:56:12,823 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 19:56:16,651 DEBUG Chromosome.txt
-2018-03-15 19:56:21,531 DEBUG Serbs.txt
-2018-03-15 19:56:23,212 DEBUG Thesis.txt
-2018-03-15 19:56:24,991 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 19:56:27,678 DEBUG H. G. Wells.txt
-2018-03-15 19:56:33,254 DEBUG September 11, 2001 attacks.txt
-2018-03-15 19:56:48,001 DEBUG West Midlands (county).txt
-2018-03-15 19:56:51,945 DEBUG Wiktionary.txt
-2018-03-15 19:56:53,667 DEBUG Arithmetic.txt
-2018-03-15 19:56:54,682 DEBUG Spatial reference system.txt
-2018-03-15 19:56:56,199 DEBUG Computer keyboard.txt
-2018-03-15 19:58:01,701 DEBUG James Bond.txt
-2018-03-15 19:58:01,980 DEBUG Speed.txt
-2018-03-15 19:58:02,173 DEBUG Official language.txt
-2018-03-15 19:58:02,316 DEBUG Federal Register.txt
-2018-03-15 19:58:02,449 DEBUG Flash memory.txt
-2018-03-15 19:58:02,674 DEBUG Counties of Sweden.txt
-2018-03-15 19:58:02,858 DEBUG 1980 United States Census.txt
-2018-03-15 19:58:03,189 DEBUG Percussion instrument.txt
-2018-03-15 19:58:03,505 DEBUG South Australia.txt
-2018-03-15 19:58:03,749 DEBUG Colorado.txt
-2018-03-15 19:58:04,318 DEBUG Anglosphere.txt
-2018-03-15 19:58:04,521 DEBUG Tornado.txt
-2018-03-15 19:58:04,628 DEBUG Channel 5 (UK).txt
-2018-03-15 19:58:04,928 DEBUG Nordic countries.txt
-2018-03-15 19:58:05,325 DEBUG Nasal consonant.txt
-2018-03-15 19:58:05,619 DEBUG WebCite.txt
-2018-03-15 19:58:05,896 DEBUG Roman Republic.txt
-2018-03-15 19:58:06,384 DEBUG Austrian School.txt
-2018-03-15 19:58:06,759 DEBUG Music of the United States.txt
-2018-03-15 19:58:07,177 DEBUG Nomenclature.txt
-2018-03-15 19:58:07,789 DEBUG Private school.txt
-2018-03-15 19:58:08,232 DEBUG Gastropod.txt
-2018-03-15 19:58:08,658 DEBUG Coat of arms.txt
-2018-03-15 19:58:09,039 DEBUG Skipper (butterfly).txt
-2018-03-15 19:58:09,340 DEBUG Prince (musician).txt
-2018-03-15 19:58:09,957 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 19:58:10,512 DEBUG Chromosome.txt
-2018-03-15 19:58:10,999 DEBUG Serbs.txt
-2018-03-15 19:58:11,491 DEBUG Thesis.txt
-2018-03-15 19:58:11,883 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 19:58:12,247 DEBUG H. G. Wells.txt
-2018-03-15 19:58:12,782 DEBUG September 11, 2001 attacks.txt
-2018-03-15 19:58:13,625 DEBUG West Midlands (county).txt
-2018-03-15 19:58:14,201 DEBUG Wiktionary.txt
-2018-03-15 19:58:14,585 DEBUG Arithmetic.txt
-2018-03-15 19:58:15,053 DEBUG Spatial reference system.txt
-2018-03-15 19:58:15,461 DEBUG Computer keyboard.txt
-2018-03-15 19:58:15,983 DEBUG Bit.txt
-2018-03-15 19:58:16,361 DEBUG Uniformed services of the United States.txt
-2018-03-15 19:58:16,536 DEBUG Nepal.txt
-2018-03-15 19:58:17,385 DEBUG National League.txt
-2018-03-15 19:58:18,017 DEBUG Survey methodology.txt
-2018-03-15 19:58:18,585 DEBUG Censorship.txt
-2018-03-15 19:58:19,183 DEBUG Zygomycota.txt
-2018-03-15 19:58:19,781 DEBUG Overtime (sports).txt
-2018-03-15 19:58:20,418 DEBUG Biomechanics.txt
-2018-03-15 19:58:20,754 DEBUG Fuel.txt
-2018-03-15 19:58:21,320 DEBUG Provinces of Italy.txt
-2018-03-15 19:58:21,963 DEBUG The Honourable.txt
-2018-03-15 19:58:22,663 DEBUG Chicago.txt
-2018-03-15 19:58:24,199 DEBUG Economy of the United Kingdom.txt
-2018-03-15 19:58:25,409 DEBUG Fianna Fáil.txt
-2018-03-15 19:58:26,142 DEBUG 400 (number).txt
-2018-03-15 19:58:26,556 DEBUG Telecommunications in Chile.txt
-2018-03-15 19:58:26,703 DEBUG Priest.txt
-2018-03-15 19:58:27,601 DEBUG Crystal structure.txt
-2018-03-15 19:58:28,351 DEBUG National Register of Historic Places listings in North Carolina.txt
-2018-03-15 19:58:28,920 DEBUG Brain.txt
-2018-03-15 19:58:29,871 DEBUG Coconut.txt
-2018-03-15 19:58:30,806 DEBUG Southern Hemisphere.txt
-2018-03-15 19:58:32,248 DEBUG Canada 2001 Census.txt
-2018-03-15 19:58:33,241 DEBUG Male.txt
-2018-03-15 19:58:33,925 DEBUG White American.txt
-2018-03-15 19:58:35,146 DEBUG Imamah (Shia doctrine).txt
-2018-03-15 19:58:36,521 DEBUG 2003 invasion of Iraq.txt
-2018-03-15 19:58:38,797 DEBUG Governance.txt
-2018-03-15 19:58:39,800 DEBUG Old Testament.txt
-2018-03-15 19:58:40,603 DEBUG IP address.txt
-2018-03-15 19:58:41,659 DEBUG Windsor, Ontario.txt
-2018-03-15 19:58:43,499 DEBUG Muammar Gaddafi.txt
-2018-03-15 19:58:45,100 DEBUG City council.txt
-2018-03-15 19:58:45,301 DEBUG Barony (geographic).txt
-2018-03-15 19:58:45,541 DEBUG Sega Genesis.txt
-2018-03-15 19:58:46,827 DEBUG International Standard Recording Code.txt
-2018-03-15 19:58:47,478 DEBUG Pope Gregory I.txt
-2018-03-15 19:58:48,894 DEBUG Provinces of Sweden.txt
-2018-03-15 19:58:49,588 DEBUG Rock music.txt
-2018-03-15 19:58:51,073 DEBUG São Paulo.txt
-2018-03-15 19:58:52,606 DEBUG Glagolitic alphabet.txt
-2018-03-15 19:58:53,895 DEBUG Earth science.txt
-2018-03-15 19:58:54,918 DEBUG Material safety data sheet.txt
-2018-03-15 19:58:55,712 DEBUG UTC−05:00.txt
-2018-03-15 19:58:56,805 DEBUG Rye.txt
-2018-03-15 19:58:57,752 DEBUG Cassava.txt
-2018-03-15 19:58:58,764 DEBUG Video game developer.txt
-2018-03-15 19:59:00,605 DEBUG Great Recession.txt
-2018-03-15 19:59:01,848 DEBUG Kamenický encoding.txt
-2018-03-15 19:59:02,408 DEBUG Lexington, Kentucky.txt
-2018-03-15 19:59:04,408 DEBUG Ultratop.txt
-2018-03-15 19:59:04,943 DEBUG Hong Kong.txt
-2018-03-15 19:59:06,455 DEBUG Intelligence.txt
-2018-03-15 19:59:08,135 DEBUG Telecommunications in Guinea.txt
-2018-03-15 19:59:09,134 DEBUG Sikh.txt
-2018-03-15 19:59:31,070 DEBUG James Bond.txt
-2018-03-15 19:59:31,353 DEBUG Speed.txt
-2018-03-15 19:59:31,545 DEBUG Official language.txt
-2018-03-15 19:59:31,693 DEBUG Federal Register.txt
-2018-03-15 19:59:31,824 DEBUG Flash memory.txt
-2018-03-15 19:59:32,033 DEBUG Counties of Sweden.txt
-2018-03-15 19:59:32,202 DEBUG 1980 United States Census.txt
-2018-03-15 19:59:32,416 DEBUG Percussion instrument.txt
-2018-03-15 19:59:32,652 DEBUG South Australia.txt
-2018-03-15 19:59:32,973 DEBUG Colorado.txt
-2018-03-15 19:59:33,440 DEBUG Anglosphere.txt
-2018-03-15 19:59:33,733 DEBUG Tornado.txt
-2018-03-15 19:59:33,898 DEBUG Channel 5 (UK).txt
-2018-03-15 19:59:34,733 DEBUG Nordic countries.txt
-2018-03-15 19:59:35,207 DEBUG Nasal consonant.txt
-2018-03-15 19:59:47,476 DEBUG James Bond.txt
-2018-03-15 19:59:47,898 DEBUG Speed.txt
-2018-03-15 19:59:48,200 DEBUG Official language.txt
-2018-03-15 19:59:48,366 DEBUG Federal Register.txt
-2018-03-15 19:59:48,537 DEBUG Flash memory.txt
-2018-03-15 19:59:48,831 DEBUG Counties of Sweden.txt
-2018-03-15 19:59:49,067 DEBUG 1980 United States Census.txt
-2018-03-15 19:59:49,391 DEBUG Percussion instrument.txt
-2018-03-15 19:59:49,748 DEBUG South Australia.txt
-2018-03-15 20:00:01,009 DEBUG James Bond.txt
-2018-03-15 20:00:01,293 DEBUG Speed.txt
-2018-03-15 20:00:01,720 DEBUG Official language.txt
-2018-03-15 20:00:01,908 DEBUG Federal Register.txt
-2018-03-15 20:00:02,175 DEBUG Flash memory.txt
-2018-03-15 20:00:02,478 DEBUG Counties of Sweden.txt
-2018-03-15 20:00:02,747 DEBUG 1980 United States Census.txt
-2018-03-15 20:00:03,072 DEBUG Percussion instrument.txt
-2018-03-15 20:00:03,373 DEBUG South Australia.txt
-2018-03-15 20:00:03,885 DEBUG Colorado.txt
-2018-03-15 20:00:04,540 DEBUG Anglosphere.txt
-2018-03-15 20:00:04,837 DEBUG Tornado.txt
-2018-03-15 20:00:04,975 DEBUG Channel 5 (UK).txt
-2018-03-15 20:00:05,358 DEBUG Nordic countries.txt
-2018-03-15 20:00:05,794 DEBUG Nasal consonant.txt
-2018-03-15 20:00:06,330 DEBUG WebCite.txt
-2018-03-15 20:00:06,663 DEBUG Roman Republic.txt
-2018-03-15 20:00:07,284 DEBUG Austrian School.txt
-2018-03-15 20:00:07,701 DEBUG Music of the United States.txt
-2018-03-15 20:00:08,199 DEBUG Nomenclature.txt
-2018-03-15 20:00:08,636 DEBUG Private school.txt
-2018-03-15 20:00:09,186 DEBUG Gastropod.txt
-2018-03-15 20:00:09,588 DEBUG Coat of arms.txt
-2018-03-15 20:00:10,087 DEBUG Skipper (butterfly).txt
-2018-03-15 20:00:10,829 DEBUG Prince (musician).txt
-2018-03-15 20:00:11,640 DEBUG Chancellor of the Exchequer.txt
-2018-03-15 20:00:12,290 DEBUG Chromosome.txt
-2018-03-15 20:00:12,851 DEBUG Serbs.txt
-2018-03-15 20:00:13,584 DEBUG Thesis.txt
-2018-03-15 20:00:14,107 DEBUG Grand Duchy of Moscow.txt
-2018-03-15 20:00:14,771 DEBUG H. G. Wells.txt
-2018-03-15 20:00:15,755 DEBUG September 11, 2001 attacks.txt
-2018-03-15 20:00:16,981 DEBUG West Midlands (county).txt
-2018-03-15 20:00:17,426 DEBUG Wiktionary.txt
-2018-03-15 20:00:17,971 DEBUG Arithmetic.txt
-2018-03-15 20:00:18,553 DEBUG Spatial reference system.txt
-2018-03-15 20:00:18,987 DEBUG Computer keyboard.txt
-2018-03-15 20:00:19,617 DEBUG Bit.txt
-2018-03-15 20:00:20,177 DEBUG Uniformed services of the United States.txt
-2018-03-15 20:00:20,578 DEBUG Nepal.txt
-2018-03-15 20:00:21,610 DEBUG National League.txt
-2018-03-15 20:00:22,254 DEBUG Survey methodology.txt
-2018-03-15 20:00:23,349 DEBUG Censorship.txt
-2018-03-15 20:00:24,341 DEBUG Zygomycota.txt
-2018-03-15 20:00:25,406 DEBUG Overtime (sports).txt
-2018-03-15 20:00:26,989 DEBUG Biomechanics.txt
-2018-03-15 20:00:27,574 DEBUG Fuel.txt
-2018-03-15 20:00:28,322 DEBUG Provinces of Italy.txt
-2018-03-15 20:00:29,075 DEBUG The Honourable.txt
-2018-03-15 20:00:29,725 DEBUG Chicago.txt
-2018-03-15 20:00:31,164 DEBUG Economy of the United Kingdom.txt
-2018-03-15 20:00:32,262 DEBUG Fianna Fáil.txt
-2018-03-15 20:00:33,401 DEBUG 400 (number).txt
-2018-03-15 20:00:33,701 DEBUG Telecommunications in Chile.txt
-2018-03-15 20:00:34,004 DEBUG Priest.txt
-2018-03-15 20:00:34,945 DEBUG Crystal structure.txt
-2018-03-15 20:00:35,903 DEBUG National Register of Historic Places listings in North Carolina.txt
-2018-03-15 20:00:37,474 DEBUG Brain.txt
-2018-03-15 20:00:38,439 DEBUG Coconut.txt
-2018-03-15 20:00:39,554 DEBUG Southern Hemisphere.txt
-2018-03-15 20:00:40,263 DEBUG Canada 2001 Census.txt
-2018-03-15 20:00:41,077 DEBUG Male.txt
-2018-03-15 20:00:41,954 DEBUG White American.txt
-2018-03-15 20:00:43,125 DEBUG Imamah (Shia doctrine).txt
-2018-03-15 20:00:44,198 DEBUG 2003 invasion of Iraq.txt
-2018-03-15 20:00:45,881 DEBUG Governance.txt
-2018-03-15 20:00:46,609 DEBUG Old Testament.txt
-2018-03-15 20:00:47,390 DEBUG IP address.txt
-2018-03-15 20:00:48,087 DEBUG Windsor, Ontario.txt
-2018-03-15 20:00:49,402 DEBUG Muammar Gaddafi.txt
-2018-03-15 20:00:50,874 DEBUG City council.txt
-2018-03-15 20:00:51,231 DEBUG Barony (geographic).txt
-2018-03-15 20:00:51,633 DEBUG Sega Genesis.txt
-2018-03-15 20:00:52,946 DEBUG International Standard Recording Code.txt
-2018-03-15 20:00:53,546 DEBUG Pope Gregory I.txt
-2018-03-15 20:00:54,453 DEBUG Provinces of Sweden.txt
-2018-03-15 20:00:55,146 DEBUG Rock music.txt
-2018-03-15 20:00:57,146 DEBUG São Paulo.txt
-2018-03-15 20:00:58,837 DEBUG Glagolitic alphabet.txt
-2018-03-15 20:00:59,716 DEBUG Earth science.txt
-2018-03-15 20:01:00,529 DEBUG Material safety data sheet.txt
-2018-03-15 20:01:01,506 DEBUG UTC−05:00.txt
-2018-03-15 20:01:02,185 DEBUG Rye.txt
-2018-03-15 20:01:02,847 DEBUG Cassava.txt
-2018-03-15 20:01:03,600 DEBUG Video game developer.txt
-2018-03-15 20:01:04,263 DEBUG Great Recession.txt
-2018-03-15 20:01:05,321 DEBUG Kamenický encoding.txt
-2018-03-15 20:01:06,004 DEBUG Lexington, Kentucky.txt
-2018-03-15 20:01:06,746 DEBUG Ultratop.txt
-2018-03-15 20:01:07,277 DEBUG Hong Kong.txt
-2018-03-15 20:01:08,658 DEBUG Intelligence.txt
-2018-03-15 20:01:10,434 DEBUG Telecommunications in Guinea.txt
-2018-03-15 20:01:11,141 DEBUG Sikh.txt
-2018-03-15 20:01:12,063 DEBUG KEGG.txt
-2018-03-15 20:01:12,581 DEBUG Unique identifier.txt
-2018-03-15 20:01:13,234 DEBUG South Korea.txt
-2018-03-15 20:01:14,728 DEBUG Loudspeaker.txt
-2018-03-15 20:01:15,695 DEBUG Satire.txt
-2018-03-15 20:01:16,758 DEBUG Community college.txt
-2018-03-15 20:01:17,580 DEBUG Network topology.txt
-2018-03-15 20:01:18,352 DEBUG Cephalopod.txt
-2018-03-15 20:01:19,383 DEBUG Slovene language.txt
-2018-03-15 20:01:20,312 DEBUG Speciation.txt
-2018-03-15 20:01:21,234 DEBUG Oxygen.txt
-2018-03-15 20:01:23,279 DEBUG Supercomputer.txt
-2018-03-15 20:01:24,232 DEBUG Integrated Taxonomic Information System.txt
-2018-03-15 20:01:24,960 DEBUG Taxation in the United States.txt
-2018-03-15 20:01:25,958 DEBUG West Berlin.txt
-2018-03-15 20:01:26,769 DEBUG National Basketball Association.txt
-2018-03-15 20:01:27,585 DEBUG Telecommunications in Saint Vincent and the Grenadines.txt
-2018-03-15 20:01:27,806 DEBUG Hawaii (island).txt
-2018-03-15 20:01:28,562 DEBUG The World Factbook.txt
-2018-03-15 20:01:29,360 DEBUG Musical notation.txt
-2018-03-15 20:01:30,263 DEBUG Republics of the Soviet Union.txt
-2018-03-15 20:01:31,006 DEBUG Indian reservation.txt
-2018-03-15 20:01:31,615 DEBUG Communications in Iran.txt
-2018-03-15 20:01:32,462 DEBUG International Statistical Classification of Diseases and Related Health Problems.txt
-2018-03-15 20:01:33,087 DEBUG Federal preemption.txt
-2018-03-15 20:01:33,706 DEBUG Prometheus Global Media.txt
-2018-03-15 20:01:34,244 DEBUG Biome.txt
-2018-03-15 20:01:35,031 DEBUG List of countries by Human Development Index.txt
-2018-03-15 20:01:36,128 DEBUG Homology (biology).txt
-2018-03-15 20:01:36,917 DEBUG Marine habitats.txt
-2018-03-15 20:01:37,858 DEBUG Subtropics.txt
-2018-03-15 20:01:38,697 DEBUG Echinoderm.txt
-2018-03-15 20:01:39,642 DEBUG University of Colorado at Boulder.txt
-2018-03-15 20:01:40,448 DEBUG Germans.txt
-2018-03-15 20:01:41,534 DEBUG Keyhole Markup Language.txt
-2018-03-15 20:01:42,199 DEBUG Per capita income.txt
-2018-03-15 20:01:42,766 DEBUG X86.txt
-2018-03-15 20:01:43,731 DEBUG George Frideric Handel.txt
-2018-03-15 20:01:44,612 DEBUG Saskatchewan.txt
-2018-03-15 20:01:46,172 DEBUG Reconstruction Era.txt
-2018-03-15 20:01:47,376 DEBUG Communications in Liberia.txt
-2018-03-15 20:01:48,227 DEBUG Family name.txt
-2018-03-15 20:01:49,149 DEBUG UTC−09:00.txt
-2018-03-15 20:01:49,419 DEBUG Neoclassical economics.txt
-2018-03-15 20:01:49,999 DEBUG England.txt
-2018-03-15 20:01:50,940 DEBUG Soviet Union.txt
-2018-03-15 20:01:52,086 DEBUG AbeBooks.txt
-2018-03-15 20:01:52,311 DEBUG Maine.txt
-2018-03-15 20:01:53,313 DEBUG Creative Commons.txt
-2018-03-15 20:01:53,984 DEBUG Private (rank).txt
-2018-03-15 20:01:54,744 DEBUG Alsace.txt
-2018-03-15 20:01:55,677 DEBUG Military organization.txt
-2018-03-15 20:01:56,493 DEBUG Kernel (computing).txt
-2018-03-15 20:01:57,287 DEBUG Eigenvalues and eigenvectors.txt
-2018-03-15 20:01:58,183 DEBUG Legume.txt
-2018-03-15 20:01:58,897 DEBUG Minute.txt
-2018-03-15 20:01:59,511 DEBUG Valencian Community.txt
-2018-03-15 20:02:00,306 DEBUG Canadian Forces.txt
-2018-03-15 20:02:01,001 DEBUG Machine gun.txt
-2018-03-15 20:02:01,660 DEBUG Cubism.txt
-2018-03-15 20:02:02,396 DEBUG Rio Grande do Sul.txt
-2018-03-15 20:02:03,382 DEBUG Secondary education.txt
-2018-03-15 20:02:04,381 DEBUG Biosphere.txt
-2018-03-15 20:02:05,206 DEBUG International Federation of the Phonographic Industry.txt
-2018-03-15 20:02:06,782 DEBUG German-speaking Europe.txt
-2018-03-15 20:02:07,631 DEBUG Gibraltar.txt
-2018-03-15 20:02:08,810 DEBUG Team sport.txt
-2018-03-15 20:02:09,640 DEBUG One Day International.txt
-2018-03-15 20:02:09,835 DEBUG Human mouth.txt
-2018-03-15 20:02:10,587 DEBUG Walter Scott.txt
-2018-03-15 20:02:11,556 DEBUG Suzerainty.txt
-2018-03-15 20:02:12,491 DEBUG Universal Product Code.txt
-2018-03-15 20:02:14,377 DEBUG Supernova.txt
-2018-03-15 20:02:15,583 DEBUG Northern Europe.txt
-2018-03-15 20:02:16,194 DEBUG Radius.txt
-2018-03-15 20:02:17,287 DEBUG Shia Islam.txt
-2018-03-15 20:02:18,902 DEBUG Countable set.txt
-2018-03-15 20:02:19,892 DEBUG Periodic table.txt
-2018-03-15 20:02:21,317 DEBUG Tibeto-Burman languages.txt
-2018-03-15 20:02:22,356 DEBUG Telecommunications in Swaziland.txt
-2018-03-15 20:02:22,701 DEBUG Hartford, Connecticut.txt
-2018-03-15 20:02:24,364 DEBUG Entertainment law.txt
-2018-03-15 20:02:25,184 DEBUG Demographic history of the United States.txt
-2018-03-15 20:02:25,497 DEBUG Taxicab.txt
-2018-03-15 20:02:26,391 DEBUG London Assembly.txt
-2018-03-15 20:02:26,974 DEBUG CDNow.txt
-2018-03-15 20:02:27,669 DEBUG IUCN Red List.txt
-2018-03-15 20:02:28,786 DEBUG Modern Standard Arabic.txt
-2018-03-15 20:02:29,863 DEBUG Defendant.txt
-2018-03-15 20:02:30,604 DEBUG Secondary school.txt
-2018-03-15 20:02:31,319 DEBUG Squid.txt
-2018-03-15 20:02:32,237 DEBUG Dominion.txt
-2018-03-15 20:02:33,350 DEBUG Rio de Janeiro (state).txt
-2018-03-15 20:02:34,365 DEBUG Equinox.txt
-2018-03-15 20:02:34,633 DEBUG Brighton.txt
-2018-03-15 20:02:35,833 DEBUG 2010 FIFA World Cup.txt
-2018-03-15 20:02:37,340 DEBUG Organisation internationale de la Francophonie.txt
-2018-03-15 20:02:38,230 DEBUG Australian Bureau of Statistics.txt
-2018-03-15 20:02:39,132 DEBUG UTF-8.txt
-2018-03-15 20:02:40,208 DEBUG Geographical Names Board of Canada.txt
-2018-03-15 20:02:40,746 DEBUG Habitat loss.txt
-2018-03-15 20:02:41,477 DEBUG Johns Hopkins University.txt
-2018-03-15 20:02:42,441 DEBUG Gaza Strip.txt
-2018-03-15 20:02:43,048 DEBUG African Americans.txt
-2018-03-15 20:02:44,985 DEBUG Online public access catalog.txt
-2018-03-15 20:02:45,700 DEBUG Z notation.txt
-2018-03-15 20:02:46,488 DEBUG Sanskrit.txt
-2018-03-15 20:02:48,038 DEBUG Document type definition.txt
-2018-03-15 20:02:48,817 DEBUG Consciousness.txt
-2018-03-15 20:02:49,758 DEBUG Naturalism (philosophy).txt
-2018-03-15 20:02:50,347 DEBUG Oliver Cromwell.txt
-2018-03-15 20:02:51,355 DEBUG Northwestern University.txt
-2018-03-15 20:02:52,280 DEBUG CBS.txt
-2018-03-15 20:02:53,286 DEBUG Blu-ray Disc.txt
-2018-03-15 20:02:54,173 DEBUG ISO 19136.txt
-2018-03-15 20:02:54,825 DEBUG Australian Open.txt
-2018-03-15 20:02:55,424 DEBUG LivingSocial.txt
-2018-03-15 20:02:55,974 DEBUG National Register of Historic Places listings in Nebraska.txt
-2018-03-15 20:02:56,677 DEBUG Lübeck.txt
-2018-03-15 20:02:57,312 DEBUG Saskatoon.txt
-2018-03-15 20:02:58,089 DEBUG Collier's Encyclopedia.txt
-2018-03-15 20:02:58,643 DEBUG Irrigation.txt
-2018-03-15 20:02:59,084 DEBUG Immanuel Kant.txt
-2018-03-15 20:03:00,407 DEBUG Maratha Empire.txt
-2018-03-15 20:03:01,313 DEBUG Magna Carta.txt
-2018-03-15 20:03:02,424 DEBUG Madonna (entertainer).txt
-2018-03-15 20:03:03,650 DEBUG ITunes Store.txt
-2018-03-15 20:03:05,885 DEBUG Famine.txt
-2018-03-15 20:03:07,058 DEBUG University of Southern California.txt
-2018-03-15 20:03:08,124 DEBUG Pitcairn Islands.txt
-2018-03-15 20:03:09,172 DEBUG Nervous system.txt
-2018-03-15 20:03:09,499 DEBUG King Arthur.txt
-2018-03-15 20:03:10,264 DEBUG Medical Subject Headings.txt
-2018-03-15 20:03:11,001 DEBUG Alberta.txt
-2018-03-15 20:03:11,725 DEBUG Swedish krona.txt
-2018-03-15 20:03:12,385 DEBUG Urban legend.txt
-2018-03-15 20:03:13,169 DEBUG Latin American music.txt
-2018-03-15 20:03:13,697 DEBUG Microphone.txt
-2018-03-15 20:03:14,514 DEBUG Standard of living in the United States.txt
-2018-03-15 20:03:15,049 DEBUG Society of Jesus.txt
-2018-03-15 20:03:15,906 DEBUG Hindustani language.txt
-2018-03-15 20:03:16,819 DEBUG Districts of Germany.txt
-2018-03-15 20:03:17,543 DEBUG Stock.txt
-2018-03-15 20:03:18,150 DEBUG Multimedia.txt
-2018-03-15 20:03:18,681 DEBUG Multilingualism.txt
-2018-03-15 20:03:19,343 DEBUG Behavioral economics.txt
-2018-03-15 20:03:19,884 DEBUG United States Military Academy.txt
-2018-03-15 20:03:20,877 DEBUG German Empire.txt
-2018-03-15 20:03:21,855 DEBUG Physical therapy.txt
-2018-03-15 20:03:22,647 DEBUG Database.txt
-2018-03-15 20:03:23,436 DEBUG Polar region.txt
-2018-03-15 20:03:23,927 DEBUG Micrometre.txt
-2018-03-15 20:03:24,593 DEBUG Mathematics.txt
-2018-03-15 20:03:25,424 DEBUG Separation of church and state in the United States.txt
-2018-03-15 20:03:26,300 DEBUG Buffalo, New York.txt
-2018-03-15 20:03:27,316 DEBUG Depression (mood).txt
-2018-03-15 20:03:28,776 DEBUG Tampa, Florida.txt
-2018-03-15 20:03:29,741 DEBUG Rock and Roll Hall of Fame.txt
-2018-03-15 20:03:30,426 DEBUG United States Department of Education.txt
-2018-03-15 20:03:31,113 DEBUG Letters patent.txt
-2018-03-15 20:03:31,977 DEBUG Web browser.txt
-2018-03-15 20:03:33,631 DEBUG Prague.txt
-2018-03-15 20:03:34,498 DEBUG Television network.txt
-2018-03-15 20:03:35,218 DEBUG Map.txt
-2018-03-15 20:03:35,969 DEBUG Birch.txt
-2018-03-15 20:03:36,614 DEBUG Toy.txt
-2018-03-15 20:03:37,804 DEBUG Alexandria.txt
-2018-03-15 20:03:38,940 DEBUG Excavate.txt
-2018-03-15 20:03:39,828 DEBUG Audit.txt
+2018-03-29 17:51:07,707 DEBUG James Bond.txt
+2018-03-29 17:51:08,849 DEBUG Speed.txt
+2018-03-29 17:51:09,222 DEBUG Official language.txt
+2018-03-29 17:51:09,462 DEBUG Federal Register.txt
+2018-03-29 17:51:10,148 DEBUG Flash memory.txt
+2018-03-29 17:51:10,770 DEBUG Counties of Sweden.txt
+2018-03-29 17:51:11,461 DEBUG 1980 United States Census.txt
+2018-03-29 17:51:12,080 DEBUG Percussion instrument.txt
+2018-03-29 17:51:12,664 DEBUG South Australia.txt
+2018-03-29 17:51:13,132 DEBUG Colorado.txt
+2018-03-29 17:51:13,899 DEBUG Anglosphere.txt
+2018-03-29 17:51:14,235 DEBUG Tornado.txt
+2018-03-29 17:51:14,590 DEBUG Channel 5 (UK).txt
+2018-03-29 17:51:15,655 DEBUG Nordic countries.txt
+2018-03-29 17:51:16,420 DEBUG Nasal consonant.txt
+2018-03-29 17:51:16,883 DEBUG WebCite.txt
+2018-03-29 17:51:17,321 DEBUG Roman Republic.txt
+2018-03-29 17:51:17,942 DEBUG Austrian School.txt
+2018-03-29 17:51:18,474 DEBUG Music of the United States.txt
+2018-03-29 17:51:19,155 DEBUG Nomenclature.txt
+2018-03-29 17:51:19,942 DEBUG Private school.txt
+2018-03-29 17:51:20,596 DEBUG Gastropod.txt
+2018-03-29 17:51:21,279 DEBUG Coat of arms.txt
+2018-03-29 17:51:21,825 DEBUG Skipper (butterfly).txt
+2018-03-29 17:51:22,383 DEBUG Prince (musician).txt
+2018-03-29 17:51:23,158 DEBUG Chancellor of the Exchequer.txt
+2018-03-29 17:51:23,871 DEBUG Chromosome.txt
+2018-03-29 17:51:24,392 DEBUG Serbs.txt
+2018-03-29 17:51:25,073 DEBUG Thesis.txt
+2018-03-29 17:51:25,945 DEBUG Grand Duchy of Moscow.txt
+2018-03-29 17:51:27,045 DEBUG H. G. Wells.txt
+2018-03-29 17:51:28,381 DEBUG September 11, 2001 attacks.txt
+2018-03-29 17:51:29,523 DEBUG West Midlands (county).txt
+2018-03-29 17:51:30,119 DEBUG Wiktionary.txt
+2018-03-29 17:51:30,954 DEBUG Arithmetic.txt
+2018-03-29 17:51:31,779 DEBUG Spatial reference system.txt
+2018-03-29 17:51:32,482 DEBUG Computer keyboard.txt
+2018-03-29 17:51:33,556 DEBUG Bit.txt
+2018-03-29 17:51:34,464 DEBUG Uniformed services of the United States.txt
+2018-03-29 17:51:35,158 DEBUG Nepal.txt
+2018-03-29 17:51:36,603 DEBUG National League.txt
+2018-03-29 17:51:37,616 DEBUG Survey methodology.txt
+2018-03-29 17:51:38,599 DEBUG Censorship.txt
+2018-03-29 17:51:39,868 DEBUG Zygomycota.txt
+2018-03-29 17:51:41,110 DEBUG Overtime (sports).txt
+2018-03-29 17:51:42,759 DEBUG Biomechanics.txt
+2018-03-29 17:51:43,923 DEBUG Fuel.txt
+2018-03-29 17:51:45,037 DEBUG Provinces of Italy.txt
+2018-03-29 17:51:46,424 DEBUG The Honourable.txt
+2018-03-29 17:51:47,349 DEBUG Chicago.txt
+2018-03-29 17:51:50,677 DEBUG Economy of the United Kingdom.txt
+2018-03-29 17:51:53,121 DEBUG Fianna Fáil.txt
+2018-03-29 17:51:55,108 DEBUG 400 (number).txt
+2018-03-29 17:51:55,518 DEBUG Telecommunications in Chile.txt
+2018-03-29 17:51:56,165 DEBUG Priest.txt
+2018-03-29 17:51:57,434 DEBUG Crystal structure.txt
+2018-03-29 17:51:58,680 DEBUG National Register of Historic Places listings in North Carolina.txt
+2018-03-29 17:51:59,247 DEBUG Brain.txt
+2018-03-29 17:52:00,897 DEBUG Coconut.txt
+2018-03-29 17:52:03,935 DEBUG Southern Hemisphere.txt
+2018-03-29 17:52:04,906 DEBUG Canada 2001 Census.txt
+2018-03-29 17:56:43,820 DEBUG James Bond.txt
+2018-03-29 17:57:08,475 DEBUG James Bond.txt
+2018-03-29 18:36:10,456 DEBUG James Bond.txt
+2018-03-29 18:36:10,977 DEBUG Speed.txt
+2018-03-29 18:36:11,211 DEBUG Official language.txt
+2018-03-29 18:36:11,379 DEBUG Federal Register.txt
+2018-03-29 18:36:11,545 DEBUG Flash memory.txt
+2018-03-29 18:36:11,806 DEBUG Counties of Sweden.txt
+2018-03-29 18:36:11,999 DEBUG 1980 United States Census.txt
+2018-03-29 18:36:12,756 DEBUG Percussion instrument.txt
+2018-03-29 18:36:12,952 DEBUG South Australia.txt
+2018-03-29 18:36:13,183 DEBUG Colorado.txt
+2018-03-29 18:36:13,770 DEBUG Anglosphere.txt
+2018-03-29 18:36:14,203 DEBUG Tornado.txt
+2018-03-29 18:36:14,404 DEBUG Channel 5 (UK).txt
+2018-03-29 18:36:15,294 DEBUG Nordic countries.txt
+2018-03-29 18:36:15,809 DEBUG Nasal consonant.txt
+2018-03-29 18:36:16,148 DEBUG WebCite.txt
+2018-03-29 18:36:16,825 DEBUG Roman Republic.txt
+2018-03-29 18:36:17,554 DEBUG Austrian School.txt
+2018-03-29 18:36:18,008 DEBUG Music of the United States.txt
+2018-03-29 18:36:18,781 DEBUG Nomenclature.txt
+2018-03-29 18:36:19,436 DEBUG Private school.txt
+2018-03-29 18:36:19,993 DEBUG Gastropod.txt
+2018-03-29 18:36:20,665 DEBUG Coat of arms.txt
+2018-03-29 18:36:21,550 DEBUG Skipper (butterfly).txt
+2018-03-29 18:36:22,075 DEBUG Prince (musician).txt
+2018-03-29 18:36:22,932 DEBUG Chancellor of the Exchequer.txt
+2018-03-29 18:36:23,526 DEBUG Chromosome.txt
+2018-03-29 18:36:24,160 DEBUG Serbs.txt
+2018-03-29 18:36:25,200 DEBUG Thesis.txt
+2018-03-29 18:36:25,947 DEBUG Grand Duchy of Moscow.txt
+2018-03-29 18:36:26,564 DEBUG H. G. Wells.txt
+2018-03-29 18:36:27,152 DEBUG September 11, 2001 attacks.txt
+2018-03-29 18:36:28,254 DEBUG West Midlands (county).txt
+2018-03-29 18:36:29,085 DEBUG Wiktionary.txt
+2018-03-29 18:36:29,948 DEBUG Arithmetic.txt
+2018-03-29 18:36:30,607 DEBUG Spatial reference system.txt
+2018-03-29 18:36:31,401 DEBUG Computer keyboard.txt
+2018-03-29 18:36:32,244 DEBUG Bit.txt
+2018-03-29 18:36:33,076 DEBUG Uniformed services of the United States.txt
+2018-03-29 18:36:33,342 DEBUG Nepal.txt
+2018-03-29 18:36:34,701 DEBUG National League.txt
+2018-03-29 18:36:35,730 DEBUG Survey methodology.txt
+2018-03-29 18:36:36,889 DEBUG Censorship.txt
+2018-03-29 18:36:37,834 DEBUG Zygomycota.txt
+2018-03-29 18:36:38,975 DEBUG Overtime (sports).txt
+2018-03-29 18:36:39,831 DEBUG Biomechanics.txt
+2018-03-29 18:36:40,365 DEBUG Fuel.txt
+2018-03-29 18:36:41,178 DEBUG Provinces of Italy.txt
+2018-03-29 18:36:42,045 DEBUG The Honourable.txt
+2018-03-29 18:36:43,040 DEBUG Chicago.txt
+2018-03-29 18:36:44,826 DEBUG Economy of the United Kingdom.txt
+2018-03-29 18:36:45,834 DEBUG Fianna Fáil.txt
