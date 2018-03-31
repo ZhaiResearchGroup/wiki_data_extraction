@@ -1,101 +1,42 @@
-2018-03-29 17:51:11,182 DEBUG University of St Andrews.txt
-2018-03-29 17:51:11,997 DEBUG Falsifiability.txt
-2018-03-29 17:51:12,637 DEBUG Wiesbaden.txt
-2018-03-29 17:51:13,101 DEBUG Bachelor of Arts.txt
-2018-03-29 17:51:13,528 DEBUG University of Utah.txt
-2018-03-29 17:51:14,046 DEBUG Wikisource.txt
-2018-03-29 17:51:14,801 DEBUG Crucifixion of Jesus.txt
-2018-03-29 17:51:15,694 DEBUG Cornish language.txt
-2018-03-29 17:51:16,401 DEBUG Cyanobacteria.txt
-2018-03-29 17:51:16,989 DEBUG Bass guitar.txt
-2018-03-29 17:51:17,651 DEBUG Murder.txt
-2018-03-29 17:51:18,283 DEBUG Nationalism.txt
-2018-03-29 17:51:18,901 DEBUG Paleontology.txt
-2018-03-29 17:51:20,622 DEBUG Integrated Services Digital Network.txt
-2018-03-29 17:51:21,181 DEBUG McGill University.txt
-2018-03-29 17:51:22,067 DEBUG National Register of Historic Places listings in Palau.txt
-2018-03-29 17:51:22,357 DEBUG Telecommunications in Jamaica.txt
-2018-03-29 17:51:22,540 DEBUG Georgetown University.txt
-2018-03-29 17:51:23,269 DEBUG Bern.txt
-2018-03-29 17:51:23,884 DEBUG Sverigetopplistan.txt
-2018-03-29 17:51:24,801 DEBUG Haaretz.txt
-2018-03-29 17:51:25,347 DEBUG Library classification.txt
-2018-03-29 17:51:26,437 DEBUG Tantra.txt
-2018-03-29 17:51:27,693 DEBUG Nationality.txt
-2018-03-29 17:51:28,640 DEBUG Prentice Hall.txt
-2018-03-29 17:51:29,220 DEBUG District attorney.txt
-2018-03-29 17:51:29,877 DEBUG Pregnancy category.txt
-2018-03-29 17:51:30,480 DEBUG George VI.txt
-2018-03-29 17:51:31,390 DEBUG Extended Unix Code.txt
-2018-03-29 17:51:32,165 DEBUG Order of Australia.txt
-2018-03-29 17:51:33,315 DEBUG Law of the United States.txt
-2018-03-29 17:51:34,228 DEBUG Soap opera.txt
-2018-03-29 17:51:35,883 DEBUG Ellipsoid.txt
-2018-03-29 17:51:37,031 DEBUG Louisiana Purchase.txt
-2018-03-29 17:51:37,288 DEBUG Work (physics).txt
-2018-03-29 17:51:38,544 DEBUG Sacramento, California.txt
-2018-03-29 17:51:41,617 DEBUG French Army.txt
-2018-03-29 17:51:43,257 DEBUG Telecommunications in Cameroon.txt
-2018-03-29 17:51:43,953 DEBUG Ceuta.txt
-2018-03-29 17:51:44,970 DEBUG United States Fish and Wildlife Service.txt
-2018-03-29 17:51:46,314 DEBUG Flagship.txt
-2018-03-29 17:51:47,102 DEBUG Biblioteca Nacional de España.txt
-2018-03-29 17:51:47,876 DEBUG Mississippi River.txt
-2018-03-29 17:51:49,411 DEBUG Dash.txt
-2018-03-29 17:51:50,338 DEBUG ChEMBL.txt
-2018-03-29 17:51:52,825 DEBUG Hungarian language.txt
-2018-03-29 17:51:54,808 DEBUG Rabbit.txt
-2018-03-29 17:51:56,127 DEBUG Cascading Style Sheets.txt
-2018-03-29 17:51:57,666 DEBUG Filipino people.txt
-2018-03-29 17:51:58,851 DEBUG ISO 9984.txt
-2018-03-29 17:51:59,190 DEBUG Diarrhea.txt
-2018-03-29 17:52:00,781 DEBUG Museum of Modern Art.txt
-2018-03-29 17:52:02,101 DEBUG Hungary.txt
-2018-03-29 17:52:04,208 DEBUG Kaliningrad Oblast.txt
-2018-03-29 17:56:43,818 DEBUG Official language.txt
-2018-03-29 17:57:08,459 DEBUG Official language.txt
-2018-03-29 18:36:13,565 DEBUG University of St Andrews.txt
-2018-03-29 18:36:14,229 DEBUG Falsifiability.txt
-2018-03-29 18:36:14,576 DEBUG Wiesbaden.txt
-2018-03-29 18:36:14,989 DEBUG Bachelor of Arts.txt
-2018-03-29 18:36:15,310 DEBUG University of Utah.txt
-2018-03-29 18:36:15,848 DEBUG Wikisource.txt
-2018-03-29 18:36:16,276 DEBUG Crucifixion of Jesus.txt
-2018-03-29 18:36:17,186 DEBUG Cornish language.txt
-2018-03-29 18:36:17,776 DEBUG Cyanobacteria.txt
-2018-03-29 18:36:18,380 DEBUG Bass guitar.txt
-2018-03-29 18:36:19,016 DEBUG Murder.txt
-2018-03-29 18:36:19,658 DEBUG Nationalism.txt
-2018-03-29 18:36:20,247 DEBUG Paleontology.txt
-2018-03-29 18:36:21,288 DEBUG Integrated Services Digital Network.txt
-2018-03-29 18:36:21,945 DEBUG McGill University.txt
-2018-03-29 18:36:22,730 DEBUG National Register of Historic Places listings in Palau.txt
-2018-03-29 18:36:23,010 DEBUG Telecommunications in Jamaica.txt
-2018-03-29 18:36:23,193 DEBUG Georgetown University.txt
-2018-03-29 18:36:24,162 DEBUG Bern.txt
-2018-03-29 18:36:25,011 DEBUG Sverigetopplistan.txt
-2018-03-29 18:36:25,600 DEBUG Haaretz.txt
-2018-03-29 18:36:26,303 DEBUG Library classification.txt
-2018-03-29 18:36:26,714 DEBUG Tantra.txt
-2018-03-29 18:36:27,532 DEBUG Nationality.txt
-2018-03-29 18:36:28,137 DEBUG Prentice Hall.txt
-2018-03-29 18:36:28,671 DEBUG District attorney.txt
-2018-03-29 18:36:29,618 DEBUG Pregnancy category.txt
-2018-03-29 18:36:30,191 DEBUG George VI.txt
-2018-03-29 18:36:31,100 DEBUG Extended Unix Code.txt
-2018-03-29 18:36:31,840 DEBUG Order of Australia.txt
-2018-03-29 18:36:32,648 DEBUG Law of the United States.txt
-2018-03-29 18:36:33,605 DEBUG Soap opera.txt
-2018-03-29 18:36:34,853 DEBUG Ellipsoid.txt
-2018-03-29 18:36:35,794 DEBUG Louisiana Purchase.txt
-2018-03-29 18:36:36,209 DEBUG Work (physics).txt
-2018-03-29 18:36:37,435 DEBUG Sacramento, California.txt
-2018-03-29 18:36:38,830 DEBUG French Army.txt
-2018-03-29 18:36:39,655 DEBUG Telecommunications in Cameroon.txt
-2018-03-29 18:36:39,795 DEBUG Ceuta.txt
-2018-03-29 18:36:40,739 DEBUG United States Fish and Wildlife Service.txt
-2018-03-29 18:36:41,419 DEBUG Flagship.txt
-2018-03-29 18:36:43,079 DEBUG Biblioteca Nacional de España.txt
-2018-03-29 18:36:43,679 DEBUG Mississippi River.txt
-2018-03-29 18:36:45,049 DEBUG Dash.txt
-2018-03-29 18:36:45,690 DEBUG ChEMBL.txt
+2018-03-31 13:44:37,803 DEBUG Official language.txt
+2018-03-31 13:45:52,164 DEBUG Official language.txt
+2018-03-31 13:48:04,560 DEBUG Official language.txt
+2018-03-31 13:48:35,717 DEBUG Official language.txt
+2018-03-31 13:48:57,173 DEBUG Official language.txt
+2018-03-31 13:50:23,107 DEBUG Official language.txt
+2018-03-31 13:51:10,850 DEBUG Official language.txt
+2018-03-31 13:51:22,634 DEBUG Official language.txt
+2018-03-31 13:53:44,034 DEBUG Official language.txt
+2018-03-31 13:55:38,096 DEBUG Official language.txt
+2018-03-31 13:56:49,452 DEBUG Official language.txt
+2018-03-31 13:57:05,732 DEBUG Official language.txt
+2018-03-31 13:58:51,735 DEBUG Official language.txt
+2018-03-31 13:59:13,702 DEBUG Official language.txt
+2018-03-31 14:05:36,048 DEBUG Official language.txt
+2018-03-31 14:06:10,678 DEBUG Official language.txt
+2018-03-31 14:06:36,719 DEBUG Official language.txt
+2018-03-31 14:07:10,344 DEBUG Official language.txt
+2018-03-31 14:07:47,115 DEBUG Official language.txt
+2018-03-31 14:07:53,657 DEBUG Official language.txt
+2018-03-31 14:09:32,441 DEBUG Official language.txt
+2018-03-31 14:10:25,528 DEBUG Official language.txt
+2018-03-31 14:11:52,106 DEBUG Official language.txt
+2018-03-31 14:12:40,547 DEBUG Official language.txt
+2018-03-31 14:13:02,593 DEBUG Official language.txt
+2018-03-31 14:16:09,533 DEBUG Official language.txt
+2018-03-31 14:16:23,503 DEBUG Official language.txt
+2018-03-31 14:17:31,194 DEBUG Official language.txt
+2018-03-31 14:19:47,205 DEBUG Official language.txt
+2018-03-31 14:22:35,707 DEBUG Official language.txt
+2018-03-31 14:38:00,550 DEBUG Official language.txt
+2018-03-31 14:38:42,599 DEBUG Official language.txt
+2018-03-31 14:39:14,557 DEBUG Official language.txt
+2018-03-31 14:40:27,215 DEBUG Official language.txt
+2018-03-31 14:41:32,957 DEBUG Official language.txt
+2018-03-31 14:42:00,549 DEBUG Official language.txt
+2018-03-31 14:43:01,300 DEBUG Official language.txt
+2018-03-31 14:49:27,528 DEBUG Official language.txt
+2018-03-31 14:49:44,272 DEBUG Official language.txt
+2018-03-31 14:50:35,930 DEBUG Official language.txt
+2018-03-31 15:01:43,217 DEBUG Official language.txt
+2018-03-31 15:03:50,093 DEBUG Official language.txt

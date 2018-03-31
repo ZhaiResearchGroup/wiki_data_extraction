@@ -1,115 +1,42 @@
-2018-03-29 17:51:07,707 DEBUG James Bond.txt
-2018-03-29 17:51:08,849 DEBUG Speed.txt
-2018-03-29 17:51:09,222 DEBUG Official language.txt
-2018-03-29 17:51:09,462 DEBUG Federal Register.txt
-2018-03-29 17:51:10,148 DEBUG Flash memory.txt
-2018-03-29 17:51:10,770 DEBUG Counties of Sweden.txt
-2018-03-29 17:51:11,461 DEBUG 1980 United States Census.txt
-2018-03-29 17:51:12,080 DEBUG Percussion instrument.txt
-2018-03-29 17:51:12,664 DEBUG South Australia.txt
-2018-03-29 17:51:13,132 DEBUG Colorado.txt
-2018-03-29 17:51:13,899 DEBUG Anglosphere.txt
-2018-03-29 17:51:14,235 DEBUG Tornado.txt
-2018-03-29 17:51:14,590 DEBUG Channel 5 (UK).txt
-2018-03-29 17:51:15,655 DEBUG Nordic countries.txt
-2018-03-29 17:51:16,420 DEBUG Nasal consonant.txt
-2018-03-29 17:51:16,883 DEBUG WebCite.txt
-2018-03-29 17:51:17,321 DEBUG Roman Republic.txt
-2018-03-29 17:51:17,942 DEBUG Austrian School.txt
-2018-03-29 17:51:18,474 DEBUG Music of the United States.txt
-2018-03-29 17:51:19,155 DEBUG Nomenclature.txt
-2018-03-29 17:51:19,942 DEBUG Private school.txt
-2018-03-29 17:51:20,596 DEBUG Gastropod.txt
-2018-03-29 17:51:21,279 DEBUG Coat of arms.txt
-2018-03-29 17:51:21,825 DEBUG Skipper (butterfly).txt
-2018-03-29 17:51:22,383 DEBUG Prince (musician).txt
-2018-03-29 17:51:23,158 DEBUG Chancellor of the Exchequer.txt
-2018-03-29 17:51:23,871 DEBUG Chromosome.txt
-2018-03-29 17:51:24,392 DEBUG Serbs.txt
-2018-03-29 17:51:25,073 DEBUG Thesis.txt
-2018-03-29 17:51:25,945 DEBUG Grand Duchy of Moscow.txt
-2018-03-29 17:51:27,045 DEBUG H. G. Wells.txt
-2018-03-29 17:51:28,381 DEBUG September 11, 2001 attacks.txt
-2018-03-29 17:51:29,523 DEBUG West Midlands (county).txt
-2018-03-29 17:51:30,119 DEBUG Wiktionary.txt
-2018-03-29 17:51:30,954 DEBUG Arithmetic.txt
-2018-03-29 17:51:31,779 DEBUG Spatial reference system.txt
-2018-03-29 17:51:32,482 DEBUG Computer keyboard.txt
-2018-03-29 17:51:33,556 DEBUG Bit.txt
-2018-03-29 17:51:34,464 DEBUG Uniformed services of the United States.txt
-2018-03-29 17:51:35,158 DEBUG Nepal.txt
-2018-03-29 17:51:36,603 DEBUG National League.txt
-2018-03-29 17:51:37,616 DEBUG Survey methodology.txt
-2018-03-29 17:51:38,599 DEBUG Censorship.txt
-2018-03-29 17:51:39,868 DEBUG Zygomycota.txt
-2018-03-29 17:51:41,110 DEBUG Overtime (sports).txt
-2018-03-29 17:51:42,759 DEBUG Biomechanics.txt
-2018-03-29 17:51:43,923 DEBUG Fuel.txt
-2018-03-29 17:51:45,037 DEBUG Provinces of Italy.txt
-2018-03-29 17:51:46,424 DEBUG The Honourable.txt
-2018-03-29 17:51:47,349 DEBUG Chicago.txt
-2018-03-29 17:51:50,677 DEBUG Economy of the United Kingdom.txt
-2018-03-29 17:51:53,121 DEBUG Fianna Fáil.txt
-2018-03-29 17:51:55,108 DEBUG 400 (number).txt
-2018-03-29 17:51:55,518 DEBUG Telecommunications in Chile.txt
-2018-03-29 17:51:56,165 DEBUG Priest.txt
-2018-03-29 17:51:57,434 DEBUG Crystal structure.txt
-2018-03-29 17:51:58,680 DEBUG National Register of Historic Places listings in North Carolina.txt
-2018-03-29 17:51:59,247 DEBUG Brain.txt
-2018-03-29 17:52:00,897 DEBUG Coconut.txt
-2018-03-29 17:52:03,935 DEBUG Southern Hemisphere.txt
-2018-03-29 17:52:04,906 DEBUG Canada 2001 Census.txt
-2018-03-29 17:56:43,820 DEBUG James Bond.txt
-2018-03-29 17:57:08,475 DEBUG James Bond.txt
-2018-03-29 18:36:10,456 DEBUG James Bond.txt
-2018-03-29 18:36:10,977 DEBUG Speed.txt
-2018-03-29 18:36:11,211 DEBUG Official language.txt
-2018-03-29 18:36:11,379 DEBUG Federal Register.txt
-2018-03-29 18:36:11,545 DEBUG Flash memory.txt
-2018-03-29 18:36:11,806 DEBUG Counties of Sweden.txt
-2018-03-29 18:36:11,999 DEBUG 1980 United States Census.txt
-2018-03-29 18:36:12,756 DEBUG Percussion instrument.txt
-2018-03-29 18:36:12,952 DEBUG South Australia.txt
-2018-03-29 18:36:13,183 DEBUG Colorado.txt
-2018-03-29 18:36:13,770 DEBUG Anglosphere.txt
-2018-03-29 18:36:14,203 DEBUG Tornado.txt
-2018-03-29 18:36:14,404 DEBUG Channel 5 (UK).txt
-2018-03-29 18:36:15,294 DEBUG Nordic countries.txt
-2018-03-29 18:36:15,809 DEBUG Nasal consonant.txt
-2018-03-29 18:36:16,148 DEBUG WebCite.txt
-2018-03-29 18:36:16,825 DEBUG Roman Republic.txt
-2018-03-29 18:36:17,554 DEBUG Austrian School.txt
-2018-03-29 18:36:18,008 DEBUG Music of the United States.txt
-2018-03-29 18:36:18,781 DEBUG Nomenclature.txt
-2018-03-29 18:36:19,436 DEBUG Private school.txt
-2018-03-29 18:36:19,993 DEBUG Gastropod.txt
-2018-03-29 18:36:20,665 DEBUG Coat of arms.txt
-2018-03-29 18:36:21,550 DEBUG Skipper (butterfly).txt
-2018-03-29 18:36:22,075 DEBUG Prince (musician).txt
-2018-03-29 18:36:22,932 DEBUG Chancellor of the Exchequer.txt
-2018-03-29 18:36:23,526 DEBUG Chromosome.txt
-2018-03-29 18:36:24,160 DEBUG Serbs.txt
-2018-03-29 18:36:25,200 DEBUG Thesis.txt
-2018-03-29 18:36:25,947 DEBUG Grand Duchy of Moscow.txt
-2018-03-29 18:36:26,564 DEBUG H. G. Wells.txt
-2018-03-29 18:36:27,152 DEBUG September 11, 2001 attacks.txt
-2018-03-29 18:36:28,254 DEBUG West Midlands (county).txt
-2018-03-29 18:36:29,085 DEBUG Wiktionary.txt
-2018-03-29 18:36:29,948 DEBUG Arithmetic.txt
-2018-03-29 18:36:30,607 DEBUG Spatial reference system.txt
-2018-03-29 18:36:31,401 DEBUG Computer keyboard.txt
-2018-03-29 18:36:32,244 DEBUG Bit.txt
-2018-03-29 18:36:33,076 DEBUG Uniformed services of the United States.txt
-2018-03-29 18:36:33,342 DEBUG Nepal.txt
-2018-03-29 18:36:34,701 DEBUG National League.txt
-2018-03-29 18:36:35,730 DEBUG Survey methodology.txt
-2018-03-29 18:36:36,889 DEBUG Censorship.txt
-2018-03-29 18:36:37,834 DEBUG Zygomycota.txt
-2018-03-29 18:36:38,975 DEBUG Overtime (sports).txt
-2018-03-29 18:36:39,831 DEBUG Biomechanics.txt
-2018-03-29 18:36:40,365 DEBUG Fuel.txt
-2018-03-29 18:36:41,178 DEBUG Provinces of Italy.txt
-2018-03-29 18:36:42,045 DEBUG The Honourable.txt
-2018-03-29 18:36:43,040 DEBUG Chicago.txt
-2018-03-29 18:36:44,826 DEBUG Economy of the United Kingdom.txt
-2018-03-29 18:36:45,834 DEBUG Fianna Fáil.txt
+2018-03-31 13:44:37,808 DEBUG James Bond.txt
+2018-03-31 13:45:52,162 DEBUG James Bond.txt
+2018-03-31 13:48:04,542 DEBUG James Bond.txt
+2018-03-31 13:48:35,714 DEBUG James Bond.txt
+2018-03-31 13:48:57,210 DEBUG James Bond.txt
+2018-03-31 13:50:23,073 DEBUG James Bond.txt
+2018-03-31 13:51:10,804 DEBUG James Bond.txt
+2018-03-31 13:51:22,629 DEBUG James Bond.txt
+2018-03-31 13:53:44,012 DEBUG James Bond.txt
+2018-03-31 13:55:38,094 DEBUG James Bond.txt
+2018-03-31 13:56:49,460 DEBUG James Bond.txt
+2018-03-31 13:57:05,732 DEBUG James Bond.txt
+2018-03-31 13:58:51,733 DEBUG James Bond.txt
+2018-03-31 13:59:13,685 DEBUG James Bond.txt
+2018-03-31 14:05:36,047 DEBUG James Bond.txt
+2018-03-31 14:06:10,697 DEBUG James Bond.txt
+2018-03-31 14:06:36,714 DEBUG James Bond.txt
+2018-03-31 14:07:10,349 DEBUG James Bond.txt
+2018-03-31 14:07:47,108 DEBUG James Bond.txt
+2018-03-31 14:07:53,642 DEBUG James Bond.txt
+2018-03-31 14:09:32,454 DEBUG James Bond.txt
+2018-03-31 14:10:25,527 DEBUG James Bond.txt
+2018-03-31 14:11:52,098 DEBUG James Bond.txt
+2018-03-31 14:12:40,546 DEBUG James Bond.txt
+2018-03-31 14:13:02,541 DEBUG James Bond.txt
+2018-03-31 14:16:09,511 DEBUG James Bond.txt
+2018-03-31 14:16:23,473 DEBUG James Bond.txt
+2018-03-31 14:17:31,195 DEBUG James Bond.txt
+2018-03-31 14:19:47,090 DEBUG James Bond.txt
+2018-03-31 14:22:35,709 DEBUG James Bond.txt
+2018-03-31 14:38:00,519 DEBUG James Bond.txt
+2018-03-31 14:38:42,599 DEBUG James Bond.txt
+2018-03-31 14:39:14,526 DEBUG James Bond.txt
+2018-03-31 14:40:27,217 DEBUG James Bond.txt
+2018-03-31 14:41:32,936 DEBUG James Bond.txt
+2018-03-31 14:42:00,510 DEBUG James Bond.txt
+2018-03-31 14:43:01,405 DEBUG James Bond.txt
+2018-03-31 14:49:27,529 DEBUG James Bond.txt
+2018-03-31 14:49:44,268 DEBUG James Bond.txt
+2018-03-31 14:50:35,790 DEBUG James Bond.txt
+2018-03-31 15:01:43,195 DEBUG James Bond.txt
+2018-03-31 15:03:50,093 DEBUG James Bond.txt
