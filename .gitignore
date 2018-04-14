@@ -13,4 +13,4 @@ old/*.csv
 old/search/wiki_*/metadata.dat
 old/search/wiki_*/wiki_*.dat
 old/search/idx_*
-old/old_gen.py
+old/*.py
